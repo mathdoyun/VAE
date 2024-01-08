@@ -1,6 +1,6 @@
 ## VAE
 
-[논문 링크](https://arxiv.org/abs/1312.6114)
+논문 링크: [VAE](https://arxiv.org/abs/1312.6114)
 
 VAE (Variational AutoEncoder)는 generative model로, data와 같은 sample 분포에서 sample을 뽑고 어떤 새로운 것을 생성해내는 것이 목표이다. 전체 구조를 그림으로 표현하면 다음과 같다.
 
